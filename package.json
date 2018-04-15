@@ -1,0 +1,19 @@
+{
+  "name": "miku",
+  "version": "1.0.0",
+  "description": "404-description-not-found",
+  "main": "index.js",
+  "dependencies": {
+    "cat-names": "^1.0.2",
+    "discord.js": "^11.3.0",
+    "dog-names": "^1.0.2",
+    "mathjs": "^3.20.2",
+    "random-cat": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "-help"
+  },
+  "author": "shido",
+  "license": "ISC"
+}
